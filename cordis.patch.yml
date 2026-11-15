@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-agent-forensics 的组合层
+- insert:
+    - id: agent-forensics
+      name: '@deepwhale-cn/dsh-agent-forensics'
